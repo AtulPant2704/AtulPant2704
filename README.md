@@ -1,9 +1,6 @@
 Hi 👋 My name is Atul Pant
 ==========================
 
-Frontend Software Engineer
---------------------------
-
 I am currently learning Full Stack Web Development and building real world projects. I am extremely dedicated at learning any skill and consistency and passion for my work are the key factors towards my success.
 
 <a href="https://www.twitter.com/AtulPant2704" target="_blank" rel="noreferrer"><img

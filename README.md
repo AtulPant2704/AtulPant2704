@@ -3,9 +3,9 @@ Hi 👋 My name is Atul Pant
 
 I am currently learning Full Stack Web Development and building real world projects. I am extremely dedicated at learning any skill and consistency and passion for my work are the key factors towards my success.
 
-<a href="https://www.twitter.com/AtulPant2704" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/AtulPant2704" target="_blank"><img
 src="https://img.shields.io/twitter/follow/AtulPant2704?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/AtulPant2704" target="_blank" rel="noreferrer"><img
+/></a><a href="https://www.github.com/AtulPant2704" target="_blank"><img
 src="https://img.shields.io/github/followers/AtulPant2704?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills

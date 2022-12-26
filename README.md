@@ -7,7 +7,7 @@ I am currently learning Full Stack Web Development and building real world proje
 src="https://img.shields.io/twitter/follow/AtulPant2704?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/AtulPant2704" target="_blank"><img
 src="https://img.shields.io/github/followers/AtulPant2704?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p><img src="https://komarev.com/ghpvc/?username=AtulPant2704&label=Profile%20views&color=dc143c&style=flat-square" alt="AtulPant2704" /> </p>
+<a><img src="https://komarev.com/ghpvc/?username=AtulPant2704&label=Profile%20views&color=blue&style=flat-square" alt="AtulPant2704" /> </a>
 
 ### Skills
 
